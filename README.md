@@ -13,6 +13,7 @@ Runtime and memory usage is mentioned at the top of each program.<br>
   <li><a href="https://github.com/Harsh-o4/leetcode-solutions/blob/main/69_sqrt(x).cpp">69. Sqrt(x)</a></li>
   <li><a href="https://github.com/Harsh-o4/leetcode-solutions/blob/main/83_remove_duplicates.cpp">83. Remove duplicates from sorted list</a></li>
   <li><a href="https://github.com/Harsh-o4/leetcode-solutions/blob/main/125_valid_palindrome.cpp">125. Valid palindrome</a></li>
+  <li><a href="https://github.com/Harsh-o4/leetcode-solutions/blob/main/160_intersection_of_2_linked_lists.cpp">160. Intersection of Two Linked Lists</a></li>
   <li><a href="https://github.com/Harsh-o4/leetcode-solutions/blob/main/344_reverse_string.cpp">344. Reverse String</a></li>
   <li><a href="https://github.com/Harsh-o4/leetcode-solutions/blob/main/2938_Seperate_black_and_white_balls.cpp">2938. Separate Black and White Balls</a></li>
   
