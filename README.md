@@ -19,4 +19,5 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 160 | [Intersection of Two Linked Lists](https://github.com/Harsh-o4/leetcode-solutions/blob/main/160_intersection_of_2_linked_lists.cpp) |  Easy  | 
 | 344 | [Reverse String](https://github.com/Harsh-o4/leetcode-solutions/blob/main/344_reverse_string.cpp) |  Easy  | 
 | 977 | [Squares of Sorted Array](https://github.com/Harsh-o4/leetcode-solutions/blob/main/977_squares_of_sorted_array.cpp) |  Easy  | 
+| 2235 | [Add Two Integers](https://github.com/Harsh-o4/leetcode-solutions/blob/main/2235_Add_Two_Integers.cpp) |  Easy | 
 | 2938 | [Separate Black and White Balls](https://github.com/Harsh-o4/leetcode-solutions/blob/main/2938_Seperate_black_and_white_balls.cpp) |  Medium | 
