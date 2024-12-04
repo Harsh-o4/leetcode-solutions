@@ -4,6 +4,7 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 
 <h2>List of questions attempted:</h2>
 <ol type="i">
+  <li><a href="https://github.com/Harsh-o4/leetcode-solutions/blob/main/1_two_sum.cpp">1. Two Sum</a></li>
   <li><a href="https://github.com/Harsh-o4/leetcode-solutions/blob/main/7_reverse_integer.cpp">7. Reverse Integer</a></li>
   <li><a href="https://github.com/Harsh-o4/leetcode-solutions/blob/main/9_palindrome_number.cpp">9. Palindrome Number</a></li>
   <li><a href="https://github.com/Harsh-o4/leetcode-solutions/blob/main/28_index_of%20_first_occurence.cpp">28. Find the index of first occurrence in a string</a></li>
