@@ -15,6 +15,7 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 58 | [Length of last word](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/58_last_word.cpp) |  Easy  | 
 | 61 | [Rotate List](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/61_rotate_list.cpp) |  Medium  | 
 | 69 | [Sqrt(x)](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/69_sqrt(x).cpp) |  Easy  | 
+| 74 | [Search a 2D Matrix](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/74_search_a_2d_matrix.c) |  Easy  | 
 | 83 | [Remove duplicates from sorted list](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/83_remove_duplicates.cpp) |  Easy  | 
 | 125 | [Valid palindrome](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/125_valid_palindrome.cpp) |  Easy  | 
 | 160 | [Intersection of Two Linked Lists](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/160_intersection_of_2_linked_lists.cpp) |  Easy  | 
