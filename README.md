@@ -9,6 +9,7 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 1 | [Two Sum](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1_two_sum.cpp) |  Easy    | 
 | 7 | [Reverse Integer](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/7_reverse_integer.cpp) |  Medium    | 
 | 9 | [Palindrome Number](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/9_palindrome_number.cpp) |  Easy   | 
+| 26 | [Remove Duplicate from Sorted Array](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/26_remove_duplicates_from_sorted_array.c) |  Easy   | 
 | 27 | [Remove Element](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/27_remove_element.c) |  Easy   | 
 | 28 | [Find the Index of the First Occurrence in a String](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/28_index_of%20_first_occurence.cpp) |  Easy   | 
 | 29 | [Divide Two Integers](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/29_divide_2_integers.cpp) |  Medium  | 
