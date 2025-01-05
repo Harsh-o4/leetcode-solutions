@@ -22,6 +22,7 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 121 | [Best Time to Buy and Sell Stock](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/121_best_time_to_suy_and_sell_stock.cpp) |  Easy  | 
 | 125 | [Valid palindrome](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/125_valid_palindrome.cpp) |  Easy  | 
 | 160 | [Intersection of Two Linked Lists](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/160_intersection_of_2_linked_lists.cpp) |  Easy  | 
+| 191 | [Number of 1 Bits](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/191_number_of_1_bits.cpp) |  Easy  | 
 | 242 | [Valid Anagram](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/242_valid_anagram.cpp) |  Easy  | 
 | 263 | [Ugly Number](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/263_ugly_number.cpp) |  Easy  | 
 | 344 | [Reverse String](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/344_reverse_string.cpp) |  Easy  | 
