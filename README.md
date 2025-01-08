@@ -28,6 +28,7 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 263 | [Ugly Number](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/263_ugly_number.cpp) |  Easy  | 
 | 268 | [Missing Number](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/268_missing_number.cpp) |  Easy  | 
 | 344 | [Reverse String](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/344_reverse_string.cpp) |  Easy  | 
+| 367 | [Valid Perfect Square](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/367_valid_perfect_square.cpp) |  Easy  | 
 | 704 | [Binary Search](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/704_binary_search.c) |  Easy  | 
 | 977 | [Squares of Sorted Array](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/977_squares_of_sorted_array.cpp) |  Easy  | 
 | 2235 | [Add Two Integers](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2235_Add_Two_Integers.cpp) |  Easy | 
