@@ -33,7 +33,9 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 367 | [Valid Perfect Square](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/367_valid_perfect_square.cpp) |  Easy  | 
 | 412 | [Fizz Buzz](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/412_fizz_buzz.cpp) |  Easy  | 
 | 441 | [Arranging Coins](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/441_arranging_coins.cpp) |  Easy  | 
+| 441 | [Hamming Distance](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/461_hamming_distance.cpp) |  Easy  | 
 | 704 | [Binary Search](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/704_binary_search.c) |  Easy  | 
 | 977 | [Squares of Sorted Array](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/977_squares_of_sorted_array.cpp) |  Easy  | 
+| 2220 | [Minimum Bit Flips to Convert Number](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2220_minimum_bit_flip.cpp) |  Easy | 
 | 2235 | [Add Two Integers](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2235_Add_Two_Integers.cpp) |  Easy | 
 | 2938 | [Separate Black and White Balls](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2938_Seperate_black_and_white_balls.cpp) |  Medium | 
