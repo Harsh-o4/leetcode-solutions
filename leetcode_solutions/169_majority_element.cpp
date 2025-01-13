@@ -1,5 +1,5 @@
 //169. Majority Element
-// Runtime: 0 ms, Memory used: 28.16 MB
+// Runtime: 3 ms, Memory used: 28.16 MB
 
 
 
