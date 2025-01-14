@@ -37,6 +37,7 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 441 | [Arranging Coins](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/441_arranging_coins.cpp) |  Easy  | 
 | 461 | [Hamming Distance](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/461_hamming_distance.cpp) |  Easy  | 
 | 704 | [Binary Search](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/704_binary_search.c) |  Easy  | 
+| 709 | [To Lower Case](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/709_to_lower_case.cpp) |  Easy  | 
 | 747 | [Largest Number At Least Twice of Others](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/747_largest_number_at_least_twice.cpp) |  Easy  | 
 | 977 | [Squares of Sorted Array](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/977_squares_of_sorted_array.cpp) |  Easy  | 
 | 2220 | [Minimum Bit Flips to Convert Number](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2220_minimum_bit_flip.cpp) |  Easy | 
