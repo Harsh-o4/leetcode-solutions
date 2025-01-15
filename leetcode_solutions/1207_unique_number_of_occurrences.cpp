@@ -1,4 +1,4 @@
-//1207. Unique Number of Occurences
+//1207. Unique Number of Occurrences
 // Runtime: 0 ms, Memory Usage: 11.98 MB
 
 
