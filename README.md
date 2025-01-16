@@ -40,6 +40,7 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 709 | [To Lower Case](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/709_to_lower_case.cpp) |  Easy  | 
 | 747 | [Largest Number At Least Twice of Others](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/747_largest_number_at_least_twice.cpp) |  Easy  | 
 | 977 | [Squares of Sorted Array](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/977_squares_of_sorted_array.cpp) |  Easy  | 
+| 1051 | [Heigth Checker](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1051_height_checker.cpp) |  Easy  | 
 | 1207 | [Unique Number of Occurrences](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1207_unique_number_of_occurrences.cpp) |  Easy  | 
 | 1221 | [Split a String in Balanced Strings](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1221_split_a_string.cpp) |  Easy  | 
 | 2220 | [Minimum Bit Flips to Convert Number](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2220_minimum_bit_flip.cpp) |  Easy | 
