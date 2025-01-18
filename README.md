@@ -44,6 +44,8 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 1108 | [Defanging an IP Address](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1108_defanging_an_ip_address.cpp) |  Easy  | 
 | 1207 | [Unique Number of Occurrences](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1207_unique_number_of_occurrences.cpp) |  Easy  | 
 | 1221 | [Split a String in Balanced Strings](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1221_split_a_string.cpp) |  Easy  | 
+| 1431 | [Kids With the Greatest Number of Candies](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1431_kids_with_greatest_candies.cpp) |  Easy  | 
 | 2220 | [Minimum Bit Flips to Convert Number](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2220_minimum_bit_flip.cpp) |  Easy | 
 | 2235 | [Add Two Integers](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2235_Add_Two_Integers.cpp) |  Easy | 
 | 2938 | [Separate Black and White Balls](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2938_Seperate_black_and_white_balls.cpp) |  Medium | 
+
