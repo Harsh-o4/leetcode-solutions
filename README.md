@@ -47,6 +47,7 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 1431 | [Kids With the Greatest Number of Candies](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1431_kids_with_greatest_candies.cpp) |  Easy  | 
 | 1470 | [Shuffle the Array](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1470_shuffle_the_array.cpp) |  Easy  | 
 | 1489 | [XOR Operation in an Array](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1489_xor_operation.cpp) |  Easy  | 
+| 1572 | [Matrix Diagonal Sum](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1572_matrix_diagonal_sum.cpp) |  Easy  | 
 | 2220 | [Minimum Bit Flips to Convert Number](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2220_minimum_bit_flip.cpp) |  Easy | 
 | 2235 | [Add Two Integers](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2235_Add_Two_Integers.cpp) |  Easy | 
 | 2938 | [Separate Black and White Balls](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2938_Seperate_black_and_white_balls.cpp) |  Medium | 
