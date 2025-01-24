@@ -48,6 +48,7 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 1470 | [Shuffle the Array](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1470_shuffle_the_array.cpp) |  Easy  | 
 | 1480 | [Running Sum of 1d Array](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1480_running_sum.cpp) |  Easy  | 
 | 1489 | [XOR Operation in an Array](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1489_xor_operation.cpp) |  Easy  | 
+| 1512 | [Number of Good Pairs](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1512_number_of_good_pairs.cpp) |  Easy  | 
 | 1572 | [Matrix Diagonal Sum](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1572_matrix_diagonal_sum.cpp) |  Easy  | 
 | 1672 | [Richest Customer Wealth](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1672_richest_customer_wealth.cpp) |  Easy  | 
 | 2220 | [Minimum Bit Flips to Convert Number](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2220_minimum_bit_flip.cpp) |  Easy | 
