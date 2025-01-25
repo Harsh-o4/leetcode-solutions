@@ -51,6 +51,7 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 1512 | [Number of Good Pairs](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1512_number_of_good_pairs.cpp) |  Easy  | 
 | 1572 | [Matrix Diagonal Sum](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1572_matrix_diagonal_sum.cpp) |  Easy  | 
 | 1672 | [Richest Customer Wealth](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1672_richest_customer_wealth.cpp) |  Easy  | 
+| 1929 | [Concatenation of Array](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1929_concatenation_of_array.cpp) |  Easy  | 
 | 2220 | [Minimum Bit Flips to Convert Number](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2220_minimum_bit_flip.cpp) |  Easy | 
 | 2235 | [Add Two Integers](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2235_Add_Two_Integers.cpp) |  Easy | 
 | 2938 | [Separate Black and White Balls](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2938_Seperate_black_and_white_balls.cpp) |  Medium | 
