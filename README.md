@@ -52,6 +52,7 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 1572 | [Matrix Diagonal Sum](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1572_matrix_diagonal_sum.cpp) |  Easy  | 
 | 1672 | [Richest Customer Wealth](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1672_richest_customer_wealth.cpp) |  Easy  | 
 | 1929 | [Concatenation of Array](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1929_concatenation_of_array.cpp) |  Easy  | 
+| 2114 | [Maximum Number of Words Found in Sentences](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2114_maximum_number_of_words.cpp) |  Easy | 
 | 2220 | [Minimum Bit Flips to Convert Number](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2220_minimum_bit_flip.cpp) |  Easy | 
 | 2235 | [Add Two Integers](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2235_Add_Two_Integers.cpp) |  Easy | 
 | 2413 | [Smallest Even Multiple](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2413_smallest_even_multiple.cpp) |  Easy | 
