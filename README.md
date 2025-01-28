@@ -56,5 +56,6 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 2220 | [Minimum Bit Flips to Convert Number](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2220_minimum_bit_flip.cpp) |  Easy | 
 | 2235 | [Add Two Integers](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2235_Add_Two_Integers.cpp) |  Easy | 
 | 2413 | [Smallest Even Multiple](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2413_smallest_even_multiple.cpp) |  Easy | 
+| 2469 | [Convert the Temperature](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2469_convert_the_temperature.cpp) |  Easy | 
 | 2938 | [Separate Black and White Balls](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2938_Seperate_black_and_white_balls.cpp) |  Medium | 
 
