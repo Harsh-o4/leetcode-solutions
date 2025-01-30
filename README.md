@@ -46,6 +46,7 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 1221 | [Split a String in Balanced Strings](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1221_split_a_string.cpp) |  Easy  | 
 | 1431 | [Kids With the Greatest Number of Candies](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1431_kids_with_greatest_candies.cpp) |  Easy  | 
 | 1470 | [Shuffle the Array](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1470_shuffle_the_array.cpp) |  Easy  | 
+| 1475 | [Final Prices With a Special Discount in a Shop](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1475_final_prices.cpp) |  Easy  | 
 | 1480 | [Running Sum of 1d Array](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1480_running_sum.cpp) |  Easy  | 
 | 1489 | [XOR Operation in an Array](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1489_xor_operation.cpp) |  Easy  | 
 | 1512 | [Number of Good Pairs](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1512_number_of_good_pairs.cpp) |  Easy  | 
