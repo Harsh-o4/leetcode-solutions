@@ -60,5 +60,6 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 2469 | [Convert the Temperature](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2469_convert_the_temperature.cpp) |  Easy | 
 | 2828 | [Check if a String Is an Acronym of Words](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2828_check_string_acronym.cpp) |  Easy | 
 | 2938 | [Separate Black and White Balls](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2938_Seperate_black_and_white_balls.cpp) |  Medium | 
+| 3151 | [Special Array I](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/3151_special_array_1.cpp) |  Easy | 
 | 3168 | [Minimum Number of Chairs in a Waiting Room](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/3168_minimum_number_of_chairs.cpp) |  Easy | 
 
