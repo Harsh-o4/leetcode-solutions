@@ -58,6 +58,7 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 2235 | [Add Two Integers](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2235_Add_Two_Integers.cpp) |  Easy | 
 | 2413 | [Smallest Even Multiple](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2413_smallest_even_multiple.cpp) |  Easy | 
 | 2469 | [Convert the Temperature](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2469_convert_the_temperature.cpp) |  Easy | 
+| 2798 | [Number of Employees Who Met the Target](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2798_number_of_employees.cpp) |  Easy | 
 | 2828 | [Check if a String Is an Acronym of Words](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2828_check_string_acronym.cpp) |  Easy | 
 | 2938 | [Separate Black and White Balls](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2938_Seperate_black_and_white_balls.cpp) |  Medium | 
 | 3151 | [Special Array I](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/3151_special_array_1.cpp) |  Easy | 
