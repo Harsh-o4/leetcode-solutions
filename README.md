@@ -53,6 +53,7 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 1572 | [Matrix Diagonal Sum](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1572_matrix_diagonal_sum.cpp) |  Easy  | 
 | 1672 | [Richest Customer Wealth](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1672_richest_customer_wealth.cpp) |  Easy  | 
 | 1752 | [Check if Array Is Sorted and Rotated](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1752_check_if_array_is_sorted_and_rotated.cpp) |  Easy  | 
+| 1800 | [Maximum Ascending Subarray Sum](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1800_maximum_ascending_subarray_sum.cpp) |  Easy  | 
 | 1929 | [Concatenation of Array](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1929_concatenation_of_array.cpp) |  Easy  | 
 | 2114 | [Maximum Number of Words Found in Sentences](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2114_maximum_number_of_words.cpp) |  Easy | 
 | 2220 | [Minimum Bit Flips to Convert Number](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2220_minimum_bit_flip.cpp) |  Easy | 
