@@ -68,7 +68,7 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 3151 | [Special Array I](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/3151_special_array_1.cpp) | [Attempt](https://leetcode.com/problems/special-array-i/) |
 | 3168 | [Minimum Number of Chairs in a Waiting Room](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/3168_minimum_number_of_chairs.cpp) | [Attempt](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) |
 
-[Back to top](#LeetCode-Solutions)<br>
+<p align="right"><a href="#LeetCode-Solutions">Back to top</a></p>
 
 <h3 id="medium">Medium</h3>
 
@@ -81,4 +81,4 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 1726 | [Tuple with Same Product](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1726_tuple_with_same_product.cpp) | [Attempt](https://leetcode.com/problems/tuple-with-same-product/) |
 | 2938 | [Separate Black and White Balls](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2938_Seperate_black_and_white_balls.cpp) | [Attempt](https://leetcode.com/problems/separate-black-and-white-balls/) |
 
-[Back to top](#LeetCode-Solutions)<br>
+<p align="right"><a href="#LeetCode-Solutions">Back to top</a></p>
