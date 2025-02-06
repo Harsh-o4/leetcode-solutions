@@ -4,7 +4,6 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 
 [Easy](#easy) | [Medium](#medium)
 
-<br>
 <h2>List of questions attempted:</h2>
 
 <h3 id="easy">Easy</h3>
