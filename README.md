@@ -2,9 +2,10 @@
 Solutions for all the leetcode questions I solved. <br>
 Runtime and memory usage is mentioned at the top of each program.<br>
 
-<h2>List of questions attempted:</h2>
-
 [Easy](#easy) | [Medium](#medium)
+
+<br>
+<h2>List of questions attempted:</h2>
 
 <h3 id="easy">Easy</h3>
 
@@ -67,6 +68,8 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 3151 | [Special Array I](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/3151_special_array_1.cpp) | [Attempt](https://leetcode.com/problems/special-array-i/) |
 | 3168 | [Minimum Number of Chairs in a Waiting Room](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/3168_minimum_number_of_chairs.cpp) | [Attempt](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) |
 
+[Back to top](#LeetCode-Solutions)<br>
+
 <h3 id="medium">Medium</h3>
 
 | #   | Title                                                                                   | LeetCode Link |
@@ -77,3 +80,5 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 74 | [Search a 2D Matrix](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/74_search_a_2d_matrix.c) | [Attempt](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 1726 | [Tuple with Same Product](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1726_tuple_with_same_product.cpp) | [Attempt](https://leetcode.com/problems/tuple-with-same-product/) |
 | 2938 | [Separate Black and White Balls](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2938_Seperate_black_and_white_balls.cpp) | [Attempt](https://leetcode.com/problems/separate-black-and-white-balls/) |
+
+[Back to top](#LeetCode-Solutions)<br>
