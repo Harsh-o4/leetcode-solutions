@@ -52,7 +52,7 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 1512 | [Number of Good Pairs](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1512_number_of_good_pairs.cpp) |  Easy  | 
 | 1572 | [Matrix Diagonal Sum](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1572_matrix_diagonal_sum.cpp) |  Easy  | 
 | 1672 | [Richest Customer Wealth](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1672_richest_customer_wealth.cpp) |  Easy  | 
-| 1752 | [Tuple with Same Product](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1726_tuple_with_same_product.cpp) |  Medium  | 
+| 1726 | [Tuple with Same Product](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1726_tuple_with_same_product.cpp) |  Medium  | 
 | 1752 | [Check if Array Is Sorted and Rotated](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1752_check_if_array_is_sorted_and_rotated.cpp) |  Easy  | 
 | 1790 | [Check if One String Swap Can Make Strings Equal](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1790_check_one_string_swap.cpp) |  Easy  | 
 | 1800 | [Maximum Ascending Subarray Sum](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1800_maximum_ascending_subarray_sum.cpp) |  Easy  | 
