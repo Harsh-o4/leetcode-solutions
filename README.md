@@ -64,6 +64,7 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 2798 | [Number of Employees Who Met the Target](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2798_number_of_employees.cpp) | [Attempt](https://leetcode.com/problems/number-of-employees-who-met-the-target/) |
 | 2828 | [Check if a String Is an Acronym of Words](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/2828_check_string_acronym.cpp) | [Attempt](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/) |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/3105_longest_strict_subarray.cpp) | [Attempt](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) |
+| 3110 | [Score of a String](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/3110_score_of_a_string.cpp) | [Attempt](https://leetcode.com/problems/score-of-a-string/) |
 | 3151 | [Special Array I](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/3151_special_array_1.cpp) | [Attempt](https://leetcode.com/problems/special-array-i/) |
 | 3168 | [Minimum Number of Chairs in a Waiting Room](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/3168_minimum_number_of_chairs.cpp) | [Attempt](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) |
 
