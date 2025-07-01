@@ -70,6 +70,7 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 3151 | [Special Array I](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/3151_special_array_1.cpp) | [Attempt](https://leetcode.com/problems/special-array-i/) |
 | 3168 | [Minimum Number of Chairs in a Waiting Room](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/3168_minimum_number_of_chairs.cpp) | [Attempt](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) |
 | 3174 | [Clear Digits](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/3174_clear_digits.cpp) | [Attempt](https://leetcode.com/problems/clear-digits/) |
+| 3330 | [Find the Original Typed String I](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/3330_original_typed.cpp) | [Attempt](https://leetcode.com/problems/find-the-original-typed-string-i/) |
 
 <p align="right"><a href="#LeetCode-Solutions">⬆️Back to top</a></p>
 
