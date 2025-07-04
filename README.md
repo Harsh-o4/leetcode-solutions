@@ -12,6 +12,7 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | --- | --------------------------------------------------------------------------------------- | ------------- |
 | 1 | [Two Sum](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/1_two_sum.cpp) | [Attempt](https://leetcode.com/problems/two-sum/) |
 | 9 | [Palindrome Number](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/9_palindrome_number.cpp) | [Attempt](https://leetcode.com/problems/palindrome-number/) |
+| 21 | [Merge Two Sorted Lists](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/21_merge_two.cpp) | [Attempt](https://leetcode.com/problems/merge-two-sorted-lists/) |
 | 26 | [Remove Duplicate from Sorted Array](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/26_remove_duplicates_from_sorted_array.c) | [Attempt](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 27 | [Remove Element](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/27_remove_element.c) | [Attempt](https://leetcode.com/problems/remove-element/) |
 | 28 | [Find the Index of the First Occurrence in a String](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/28_index_of%20_first_occurence.cpp) | [Attempt](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
