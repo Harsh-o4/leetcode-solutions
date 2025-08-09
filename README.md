@@ -28,6 +28,7 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | 191 | [Number of 1 Bits](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/191_number_of_1_bits.cpp) | [Attempt](https://leetcode.com/problems/number-of-1-bits/) |
 | 202 | [Happy Number](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/202_happy_number.cpp) | [Attempt](https://leetcode.com/problems/happy-number/) |
 | 217 | [Contains Duplicate](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/217_contains_duplicate.cpp) | [Attempt](https://leetcode.com/problems/contains-duplicate/) |
+| 231 | [Power of Two](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/231_power_of_two.cpp) | [Attempt](https://leetcode.com/problems/power-of-two/) |
 | 242 | [Valid Anagram](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/242_valid_anagram.cpp) | [Attempt](https://leetcode.com/problems/valid-anagram/) |
 | 258 | [Add Digits](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/258_add_digits.cpp) | [Attempt](https://leetcode.com/problems/add-digits/) |
 | 263 | [Ugly Number](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/263_ugly_number.cpp) | [Attempt](https://leetcode.com/problems/ugly-number/) |
