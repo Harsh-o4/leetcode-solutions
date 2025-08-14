@@ -83,6 +83,7 @@ Runtime and memory usage is mentioned at the top of each program.<br>
 | #   | Title                                                                                   | LeetCode Link |
 | --- | --------------------------------------------------------------------------------------- | ------------- |
 | 7 | [Reverse Integer](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/7_reverse_integer.cpp) | [Attempt](https://leetcode.com/problems/reverse-integer/) |
+| 24 | [Swap Nodes in Pairs](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/24_swap_pairs.cpp) | [Attempt](https://leetcode.com/problems/swap-nodes-in-pairs/) |
 | 29 | [Divide Two Integers](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/29_divide_2_integers.cpp) | [Attempt](https://leetcode.com/problems/divide-two-integers/) |
 | 61 | [Rotate List](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/61_rotate_list.cpp) | [Attempt](https://leetcode.com/problems/rotate-list/) |
 | 74 | [Search a 2D Matrix](https://github.com/Harsh-o4/leetcode-solutions/blob/main/leetcode_solutions/74_search_a_2d_matrix.c) | [Attempt](https://leetcode.com/problems/search-a-2d-matrix/) |
